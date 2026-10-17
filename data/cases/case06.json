@@ -1,0 +1,16 @@
+{
+  "medications": [
+    { "name": "trimethoprim/sulfamethoxazole", "dose": "1", "unit": "tablet", "frequency": "BID" },
+    { "name": "metformin", "dose": "1000", "unit": "mg", "frequency": "BID" },
+    { "name": "glipizide", "dose": "5", "unit": "mg", "frequency": "daily" },
+    { "name": "vitamin D", "dose": "2000", "unit": "IU", "frequency": "daily" }
+  ],
+  "followUps": [
+    { "provider": "primary care", "timeFrame": "1 week" },
+    { "provider": "urology", "timeFrame": "" }
+  ],
+  "restrictions": [
+    { "category": "diet", "description": "drink 8 glasses water daily" },
+    { "category": "diet", "description": "diabetic diet" }
+  ]
+}

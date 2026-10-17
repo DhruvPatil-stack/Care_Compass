@@ -1,0 +1,31 @@
+XYZ Medical Center
+Patient Discharge Summary - SYNTHETIC EXAMPLE
+
+Name: Synthetic Patient Three  |  MRN: 100-003-001  |  DOB: 11/04/1972
+
+Discharge Diagnosis: Acute DVT (deep vein thrombosis), left leg
+
+YOUR MEDICATIONS AT HOME
+
+1. Rivaroxaban (Xarelto) 15 mg -- take TWICE DAILY with food for 21 days, then 20 mg once daily
+2. Ibuprofen 400 mg by mouth three times daily with food as needed for pain -- do not take more than 1200 mg per day
+3. Omeprazole 20 mg PO daily (take before breakfast to protect your stomach)
+
+FOLLOW-UP APPOINTMENTS
+- Hematology: 2 weeks. Call to confirm.
+- Primary care doctor: within 1 week
+
+ACTIVITY RESTRICTIONS
+- No prolonged sitting or standing (move and stretch every 30 min)
+- Elevate left leg when sitting
+- No long-distance flights for 3 months
+
+WOUND CARE / LEG CARE
+- Wear compression stocking on left leg daily
+- No submersion of left leg in bathtub or pool for 2 weeks
+
+WHEN TO SEEK CARE IMMEDIATELY
+- Sudden shortness of breath
+- Chest pain
+- Coughing up blood
+- Left leg swelling dramatically worsens

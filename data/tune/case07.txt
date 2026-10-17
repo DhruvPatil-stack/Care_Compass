@@ -1,0 +1,32 @@
+HARD CASE: UNUSUAL LAYOUT, MIXED CASE, EMBEDDED INSTRUCTIONS
+(SYNTHETIC DATA - PARSER STRESS TEST)
+
+===PATIENT: SYNTHETIC SEVEN | MRN: 100-007-001===
+
+DISCHARGE DX >> COPD EXACERBATION + HTN
+
+--MEDICATIONS--
+[1] ALBUTEROL SULFATE -- INHALER -- 2 PUFFS -- EVERY 4 HOURS -- AS NEEDED -- SOB
+[2] IPRATROPIUM BROMIDE (ATROVENT) INHALER -- 2 PUFFS -- QID (4X DAILY)
+[3] PREDNISONE -- 40MG -- BY MOUTH -- ONCE A DAY -- X 5 DAYS THEN STOP
+[4] AZITHROMYCIN -- 250MG -- PO -- DAILY -- 5 DAYS
+[5] AMLODIPINE (NORVASC) -- 5MG -- ONCE DAILY -- BP CONTROL
+[6] TIOTROPIUM (SPIRIVA) -- 18MCG -- INHALED -- ONCE DAILY (MAINTENANCE)
+
+**FOLLOW UP**
+>> Pulmonology: 4 wks
+>> PCP: 1-2 weeks
+>> Note: If still on prednisone call PCP for taper instructions
+
+##ACTIVITY##
+Limit activity during acute illness; rest frequently
+No strenuous exercise until cleared by pulmonologist
+
+==DIET==
+No special restrictions; high calorie diet if underweight
+
+~~~WOUND CARE~~~
+No wounds; monitor IV site for redness
+
+```RETURN PRECAUTIONS```
+ER immediately: severe SOB at rest, SpO2 < 88%, cyanosis (blue lips/fingertips), altered mental status

@@ -1,0 +1,33 @@
+HARDEST CASE - NONSTANDARD FORMATTING, ABBREVIATIONS, MULTIPLE DIAGNOSES
+SYNTHETIC DATA ONLY | SYNTHETIC PATIENT FIFTEEN | MRN: 100-015-001
+
+Final Dx: (1) NSTEMI s/p PCI w/ DES to LAD (2) T2DM (3) CKD2 (4) Dyslipidemia
+
+Meds on discharge (reconciled from home list + new):
+
+CARDIAC:
+Aspirin 81mg/d [indefinitely]
+Clopidogrel 75mg qd x 12 months -- DO NOT STOP without talking to cardiologist
+Metoprolol succinate 50mg QD
+Atorvastatin 80mg QHS -- HIGH DOSE for MI
+Lisinopril 5mg PO daily -- start low, uptitrate
+
+DIABETES:
+Metformin 500mg BID w/meals (hold if contrast procedure; restart after 48h)
+Glipizide 5mg qAM
+
+GI PROTECTION:
+Pantoprazole 40mg PO qd (take w aspirin to protect stomach)
+
+F/U (ALL CRITICAL):
+- Cardiology w/ interventional cardiologist: 1 week
+- PCP: 2 weeks
+- Endocrinology: 4 weeks
+
+Wt bearing/activity: cardiac rehab referral placed; walking program q day; NO heavy lifting (>5lbs) x 6 weeks
+
+Diet: cardiac diet (low Na, low sat-fat); diabetic diet; fluid restriction 2L/d given CKD
+
+Wound: cath site right wrist (radial approach) -- keep clean and dry x 48h; light pressure dressing -- remove after 48h
+
+Return to ED: chest pain/pressure, SOB, arm pain, palpitations, rash (possible clopidogrel reaction), fever, bleeding from wrist site that does not stop.

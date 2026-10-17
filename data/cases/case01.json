@@ -1,0 +1,18 @@
+{
+  "medications": [
+    { "name": "lisinopril", "dose": "10", "unit": "mg", "frequency": "daily" },
+    { "name": "metformin", "dose": "500", "unit": "mg", "frequency": "BID" },
+    { "name": "atorvastatin", "dose": "40", "unit": "mg", "frequency": "qHS" },
+    { "name": "aspirin", "dose": "81", "unit": "mg", "frequency": "daily" }
+  ],
+  "followUps": [
+    { "provider": "primary care", "timeFrame": "2 weeks" },
+    { "provider": "endocrinology", "timeFrame": "6 weeks" }
+  ],
+  "restrictions": [
+    { "category": "activity", "description": "Walk 20 minutes daily" },
+    { "category": "activity", "description": "No strenuous exercise for 4 weeks" },
+    { "category": "diet", "description": "Low sodium diet" },
+    { "category": "diet", "description": "Diabetic diet" }
+  ]
+}

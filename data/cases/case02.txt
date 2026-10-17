@@ -1,0 +1,31 @@
+DISCHARGE INSTRUCTIONS
+(Synthetic data - not real)
+
+pt: Sample Patient Two
+mrn: 100-002-001
+dob: 07/22/1958
+
+dx: Community-acquired pneumonia
+
+MEDS:
+azithromycin 500mg po DAILY x5 days
+prednisone 40mg po daily for 5 days
+acetaminophen 650 mg po q6h PRN fever/pain
+albuterol inhaler -- 2 puffs inhaled q4h prn sob
+
+F/U:
+- pcp within 7 days
+- pulmonology in 4 weeks if not improved
+
+ACTIVITY:
+rest as needed
+ambulate at home; no strenuous exercise x 2 weeks
+
+DIET:
+regular diet; increase fluids
+
+WOUND CARE:
+no wounds; IV site may bruise - normal
+
+RETURN PRECAUTIONS:
+go to ER: fever > 101.5F, worsening SOB, chest pain, confusion

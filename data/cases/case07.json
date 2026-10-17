@@ -1,0 +1,18 @@
+{
+  "medications": [
+    { "name": "albuterol", "dose": "2", "unit": "puffs", "frequency": "PRN" },
+    { "name": "ipratropium", "dose": "2", "unit": "puffs", "frequency": "QID" },
+    { "name": "prednisone", "dose": "40", "unit": "mg", "frequency": "daily" },
+    { "name": "azithromycin", "dose": "250", "unit": "mg", "frequency": "daily" },
+    { "name": "amlodipine", "dose": "5", "unit": "mg", "frequency": "daily" },
+    { "name": "tiotropium", "dose": "18", "unit": "mcg", "frequency": "daily" }
+  ],
+  "followUps": [
+    { "provider": "pulmonology", "timeFrame": "4 weeks" },
+    { "provider": "primary care", "timeFrame": "1 week" }
+  ],
+  "restrictions": [
+    { "category": "activity", "description": "limit activity; rest frequently" },
+    { "category": "activity", "description": "no strenuous exercise until cleared" }
+  ]
+}

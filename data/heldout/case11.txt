@@ -1,0 +1,16 @@
+HARD CASE: PARAGRAPH FORMAT, NO BULLET LISTS
+SYNTHETIC CASE 11 -- STROKE RECOVERY
+
+Synthetic Patient Eleven was discharged after treatment for ischemic stroke affecting the left side.
+
+Medications section: The patient should take the following medications. Clopidogrel (Plavix) 75 mg by mouth once daily to prevent another stroke. Atorvastatin 80 mg by mouth at bedtime to lower cholesterol. Lisinopril 10 mg PO daily to control blood pressure. Aspirin 81 mg PO daily. The patient should also take Escitalopram (Lexapro) 10 mg PO every morning for mood support following the stroke.
+
+Follow-up appointments section: The patient must see neurology within 2 weeks. Appointment with physical therapy 3 times weekly for rehabilitation. Speech therapy evaluation within 1 week.
+
+Activity restrictions section: No driving for minimum 6 months or until cleared by neurologist. Supervision required for all mobility for first 2 weeks. No climbing stairs alone for 1 week.
+
+Diet section: Heart healthy diet. Low sodium. No alcohol.
+
+Wound care section: No wounds from stroke treatment.
+
+Return precautions: Return to ER for any new neurological symptoms: sudden weakness, vision loss, speech difficulty, severe headache, facial droop.

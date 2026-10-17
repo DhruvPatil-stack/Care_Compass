@@ -85,13 +85,12 @@ and run `git log --oneline` to reconstruct state.
 
 ---
 
-## Phase 6 -- Push (pending)
+## Phase 6 -- Push (2026-10-17)
 
-Push to origin/main has not happened yet.
-This section will be updated after the push step.
-
----
-
-## Screenshot capture result
-
-(To be filled in Phase 5 after Playwright run.)
+| Item | Value |
+|------|-------|
+| Commit | Initial full build: parser, UI, eval, docs, CI |
+| Branch | main |
+| Remote | https://github.com/DhruvPatil-stack/Care_Compass.git |
+| .gitignore additions | .claude/ (local settings), eval-err.txt, eval-out.txt (generated artifacts) |
+| Build status at push | next build passes, all Vitest tests pass |

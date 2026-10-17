@@ -1,0 +1,17 @@
+{
+  "medications": [
+    { "name": "apixaban", "dose": "5", "unit": "mg", "frequency": "BID" },
+    { "name": "metoprolol", "dose": "25", "unit": "mg", "frequency": "BID" },
+    { "name": "digoxin", "dose": "0.125", "unit": "mg", "frequency": "daily" },
+    { "name": "atorvastatin", "dose": "40", "unit": "mg", "frequency": "qHS" },
+    { "name": "aspirin", "dose": "81", "unit": "mg", "frequency": "daily" }
+  ],
+  "followUps": [
+    { "provider": "cardiology", "timeFrame": "5 days" },
+    { "provider": "primary care", "timeFrame": "2 weeks" }
+  ],
+  "restrictions": [
+    { "category": "activity", "description": "no strenuous exertion until cleared" },
+    { "category": "diet", "description": "low sodium, no alcohol, no grapefruit" }
+  ]
+}

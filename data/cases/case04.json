@@ -1,0 +1,20 @@
+{
+  "medications": [
+    { "name": "oxycodone", "dose": "5", "unit": "mg", "frequency": "PRN" },
+    { "name": "acetaminophen", "dose": "1000", "unit": "mg", "frequency": "q6h" },
+    { "name": "aspirin", "dose": "325", "unit": "mg", "frequency": "BID" },
+    { "name": "celecoxib", "dose": "200", "unit": "mg", "frequency": "daily" },
+    { "name": "docusate", "dose": "100", "unit": "mg", "frequency": "BID" },
+    { "name": "enoxaparin", "dose": "40", "unit": "mg", "frequency": "daily" }
+  ],
+  "followUps": [
+    { "provider": "orthopedic surgery", "timeFrame": "2 weeks" },
+    { "provider": "physical therapy", "timeFrame": "2 days" }
+  ],
+  "restrictions": [
+    { "category": "driving", "description": "no driving for 6 weeks" },
+    { "category": "lifting", "description": "no lifting over 10 lbs for 6 weeks" },
+    { "category": "bathing", "description": "keep incision dry for 7 days" },
+    { "category": "activity", "description": "use walker at all times" }
+  ]
+}

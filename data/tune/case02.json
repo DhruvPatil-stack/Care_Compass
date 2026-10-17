@@ -1,0 +1,16 @@
+{
+  "medications": [
+    { "name": "azithromycin", "dose": "500", "unit": "mg", "frequency": "daily" },
+    { "name": "prednisone", "dose": "40", "unit": "mg", "frequency": "daily" },
+    { "name": "acetaminophen", "dose": "650", "unit": "mg", "frequency": "PRN" },
+    { "name": "albuterol", "dose": "2", "unit": "puffs", "frequency": "PRN" }
+  ],
+  "followUps": [
+    { "provider": "primary care", "timeFrame": "7 days" },
+    { "provider": "pulmonology", "timeFrame": "4 weeks" }
+  ],
+  "restrictions": [
+    { "category": "activity", "description": "rest as needed" },
+    { "category": "activity", "description": "no strenuous exercise for 2 weeks" }
+  ]
+}

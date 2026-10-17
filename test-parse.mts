@@ -1,0 +1,13 @@
+﻿import { normalize } from './src/lib/parser/normalize';
+import { maskPHI } from './src/lib/parser/maskPHI';
+import { parseDischarge } from './src/lib/parser/index';
+import { fleschKincaidGrade } from './src/lib/parser/gradeLevel';
+import { readFileSync } from 'fs';
+const txt = readFileSync('./data/tune/case01.txt', 'utf-8');
+const n = normalize(txt);
+const { maskedText } = maskPHI(n);
+const pr = parseDischarge(maskedText);
+console.log('meds:', pr.medications.length, pr.medications.map(m => m.drugName));
+console.log('followUps:', pr.followUps.length);
+console.log('unparsed:', pr.unparsed.length);
+console.log('fk:', fleschKincaidGrade(pr.medications.map(m => m.plainText).join(' ')));

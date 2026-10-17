@@ -1,0 +1,29 @@
+INPATIENT DISCHARGE - SEPSIS RECOVERY
+SYNTHETIC PATIENT TEN | ID: 100-010-001
+
+You were treated for sepsis (serious infection in your blood). You are going home on oral antibiotics to finish your treatment.
+
+PLEASE TAKE THE FOLLOWING MEDICATIONS:
+
+Levofloxacin 750 mg oral once daily for 7 days [ANTIBIOTIC - complete the full course]
+Acetaminophen (Tylenol) 650 mg oral every 6 hours as needed for fever or body aches (max 4 doses/day)
+Sertraline 50 mg oral daily in the morning [continue your regular antidepressant]
+Omeprazole 40 mg oral once daily before breakfast
+
+SCHEDULE THESE VISITS:
+1. Your primary care provider ASAP - within 3 days if possible.
+2. Infectious disease clinic - 2 weeks.
+
+ACTIVITY AND REST:
+You may feel very tired for 2-4 weeks after sepsis. This is normal. Rest when needed.
+Increase activity gradually. Short walks are good.
+No return to work for at least 1 week.
+
+DIET:
+Eat well. High protein foods help recovery. Stay well hydrated.
+
+WOUND CARE:
+Central line site: keep dry for 72 hours.
+
+GO BACK TO THE ER IF YOU HAVE:
+temperature over 101F, shaking chills, confusion, decreased urination, rash.

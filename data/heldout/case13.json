@@ -1,0 +1,17 @@
+{
+  "medications": [
+    { "name": "losartan", "dose": "100", "unit": "mg", "frequency": "daily" },
+    { "name": "furosemide", "dose": "20", "unit": "mg", "frequency": "daily" },
+    { "name": "ferrous sulfate", "dose": "325", "unit": "mg", "frequency": "BID" },
+    { "name": "cyanocobalamin", "dose": "1000", "unit": "mcg", "frequency": "daily" },
+    { "name": "calcium carbonate", "dose": "500", "unit": "mg", "frequency": "BID" }
+  ],
+  "followUps": [
+    { "provider": "nephrology", "timeFrame": "2 weeks" },
+    { "provider": "primary care", "timeFrame": "4 weeks" }
+  ],
+  "restrictions": [
+    { "category": "diet", "description": "renal diet: low potassium, phosphorus, sodium; fluid limit 2L/day" },
+    { "category": "activity", "description": "exercise 30 min/day; no contact sports" }
+  ]
+}

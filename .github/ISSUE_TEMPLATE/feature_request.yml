@@ -1,0 +1,47 @@
+name: Feature Request
+description: Suggest a new feature for CareCompass
+title: "[Feature]: "
+labels: ["enhancement"]
+body:
+  - type: checkboxes
+    id: data-safety
+    attributes:
+      label: Data Safety Check
+      description: Please confirm before submitting
+      options:
+        - label: I did not include real patient data in this request.
+          required: true
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem Statement
+      description: What problem does this feature solve?
+      placeholder: "As a patient, I need..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: solution
+    attributes:
+      label: Proposed Solution
+      description: Describe the feature you would like.
+    validations:
+      required: true
+
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives Considered
+      description: Have you considered any alternative approaches?
+
+  - type: checkboxes
+    id: constraints
+    attributes:
+      label: Constraints
+      description: This project has hard constraints -- please check all that apply to your request.
+      options:
+        - label: This feature does NOT require calling an external API or LLM.
+          required: true
+        - label: This feature does NOT send any data off the user's device.
+          required: true

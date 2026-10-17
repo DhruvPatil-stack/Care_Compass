@@ -1,0 +1,29 @@
+DISCHARGE SUMMARY
+(Synthetic data only - not a real patient record)
+
+Patient: Sample Patient One
+MRN: 100-001-001
+DOB: 03/15/1945
+
+Diagnosis: Hypertension, Type 2 Diabetes Mellitus
+
+Medications:
+Lisinopril 10 mg PO daily
+Metformin 500 mg PO BID with meals
+Atorvastatin 40 mg PO qHS
+Aspirin 81 mg PO daily
+
+Follow-up:
+See your primary care doctor in 2 weeks.
+Endocrinology appointment in 6 weeks.
+
+Activity:
+Walk 20 minutes daily as tolerated.
+Avoid strenuous exercise for 4 weeks.
+
+Diet:
+Low sodium diet. Limit salt to less than 2 grams per day.
+Diabetic diet: avoid sugary drinks and refined carbohydrates.
+
+Return Precautions:
+Return to the ER if you have chest pain, severe shortness of breath, blood sugar over 400, or vision changes.

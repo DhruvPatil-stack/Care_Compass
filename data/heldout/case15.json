@@ -1,0 +1,22 @@
+{
+  "medications": [
+    { "name": "aspirin", "dose": "81", "unit": "mg", "frequency": "daily" },
+    { "name": "clopidogrel", "dose": "75", "unit": "mg", "frequency": "daily" },
+    { "name": "metoprolol", "dose": "50", "unit": "mg", "frequency": "daily" },
+    { "name": "atorvastatin", "dose": "80", "unit": "mg", "frequency": "qHS" },
+    { "name": "lisinopril", "dose": "5", "unit": "mg", "frequency": "daily" },
+    { "name": "metformin", "dose": "500", "unit": "mg", "frequency": "BID" },
+    { "name": "glipizide", "dose": "5", "unit": "mg", "frequency": "daily" },
+    { "name": "pantoprazole", "dose": "40", "unit": "mg", "frequency": "daily" }
+  ],
+  "followUps": [
+    { "provider": "cardiology", "timeFrame": "1 week" },
+    { "provider": "primary care", "timeFrame": "2 weeks" },
+    { "provider": "endocrinology", "timeFrame": "4 weeks" }
+  ],
+  "restrictions": [
+    { "category": "lifting", "description": "no lifting over 5 lbs for 6 weeks" },
+    { "category": "diet", "description": "cardiac and diabetic diet; fluid restriction 2L/day" },
+    { "category": "bathing", "description": "keep cath site dry for 48 hours" }
+  ]
+}

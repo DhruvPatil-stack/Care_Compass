@@ -1,0 +1,17 @@
+{
+  "medications": [
+    { "name": "ibuprofen", "dose": "600", "unit": "mg", "frequency": "q8h" },
+    { "name": "oxycodone/acetaminophen", "dose": "5", "unit": "mg", "frequency": "PRN" },
+    { "name": "ondansetron", "dose": "4", "unit": "mg", "frequency": "PRN" },
+    { "name": "docusate", "dose": "100", "unit": "mg", "frequency": "BID" }
+  ],
+  "followUps": [
+    { "provider": "general surgery", "timeFrame": "2 weeks" }
+  ],
+  "restrictions": [
+    { "category": "lifting", "description": "no lifting over 15 lbs for 4 weeks" },
+    { "category": "driving", "description": "no driving while taking oxycodone" },
+    { "category": "bathing", "description": "no bathing or pools until staples removed" },
+    { "category": "diet", "description": "clear liquids advancing to regular; avoid fried and spicy for 1 week" }
+  ]
+}

@@ -1,0 +1,30 @@
+heart failure discharge instructions - synthetic
+
+SYNTHETIC PATIENT FIVE / mrn 100-005-001
+
+your diagnosis: heart failure (congestive heart failure, CHF)
+
+MEDICATIONS -- weigh yourself EVERY morning before eating. call doctor if you gain more than 2 lbs in a day or 5 lbs in a week.
+
+metoprolol succinate 50mg daily (morning, with food)
+lisinopril 5 mg po once daily
+furosemide (lasix) 40mg po every morning -- this is a water pill; you may urinate more
+spironolactone 25mg daily
+warfarin 5mg daily -- INR must be checked regularly
+potassium chloride 20 mEq PO BID (replace what furosemide removes)
+digoxin 0.125mg PO daily
+
+follow up:
+cardiology within 5 days of discharge. this is critical.
+primary care in 2 weeks
+
+restrictions:
+FLUID RESTRICTION: no more than 2 liters of fluid per day (includes soups, juice, ice cream)
+low sodium diet: limit to 2000 mg sodium per day
+no vigorous exercise; walk slowly for 5-10 minutes daily as tolerated
+
+wound care: not applicable
+
+return precautions:
+call 911 for: sudden severe SOB, chest pain radiating to arm or jaw, loss of consciousness
+call doctor for: weight gain > 2 lbs/day, increased swelling in ankles, worsening SOB

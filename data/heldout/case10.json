@@ -1,0 +1,17 @@
+{
+  "medications": [
+    { "name": "levofloxacin", "dose": "750", "unit": "mg", "frequency": "daily" },
+    { "name": "acetaminophen", "dose": "650", "unit": "mg", "frequency": "PRN" },
+    { "name": "sertraline", "dose": "50", "unit": "mg", "frequency": "daily" },
+    { "name": "omeprazole", "dose": "40", "unit": "mg", "frequency": "daily" }
+  ],
+  "followUps": [
+    { "provider": "primary care", "timeFrame": "3 days" },
+    { "provider": "infectious disease", "timeFrame": "2 weeks" }
+  ],
+  "restrictions": [
+    { "category": "activity", "description": "rest when needed; increase gradually" },
+    { "category": "activity", "description": "no return to work for 1 week" },
+    { "category": "bathing", "description": "keep central line site dry for 72 hours" }
+  ]
+}

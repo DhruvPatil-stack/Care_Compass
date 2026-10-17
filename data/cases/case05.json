@@ -1,0 +1,20 @@
+{
+  "medications": [
+    { "name": "metoprolol", "dose": "50", "unit": "mg", "frequency": "daily" },
+    { "name": "lisinopril", "dose": "5", "unit": "mg", "frequency": "daily" },
+    { "name": "furosemide", "dose": "40", "unit": "mg", "frequency": "daily" },
+    { "name": "spironolactone", "dose": "25", "unit": "mg", "frequency": "daily" },
+    { "name": "warfarin", "dose": "5", "unit": "mg", "frequency": "daily" },
+    { "name": "potassium chloride", "dose": "20", "unit": "mEq", "frequency": "BID" },
+    { "name": "digoxin", "dose": "0.125", "unit": "mg", "frequency": "daily" }
+  ],
+  "followUps": [
+    { "provider": "cardiology", "timeFrame": "5 days" },
+    { "provider": "primary care", "timeFrame": "2 weeks" }
+  ],
+  "restrictions": [
+    { "category": "diet", "description": "fluid restriction 2 liters per day" },
+    { "category": "diet", "description": "low sodium diet 2000 mg per day" },
+    { "category": "activity", "description": "no vigorous exercise" }
+  ]
+}

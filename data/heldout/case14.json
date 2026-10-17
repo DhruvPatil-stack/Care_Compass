@@ -1,0 +1,16 @@
+{
+  "medications": [
+    { "name": "venlafaxine", "dose": "37.5", "unit": "mg", "frequency": "daily" },
+    { "name": "alprazolam", "dose": "0.25", "unit": "mg", "frequency": "BID" },
+    { "name": "quetiapine", "dose": "25", "unit": "mg", "frequency": "qHS" },
+    { "name": "sertraline", "dose": "100", "unit": "mg", "frequency": "daily" }
+  ],
+  "followUps": [
+    { "provider": "psychiatry", "timeFrame": "2 weeks" },
+    { "provider": "primary care", "timeFrame": "4 weeks" }
+  ],
+  "restrictions": [
+    { "category": "diet", "description": "limit caffeine and alcohol" },
+    { "category": "activity", "description": "daily exercise recommended" }
+  ]
+}

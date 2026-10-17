@@ -1,0 +1,18 @@
+{
+  "medications": [
+    { "name": "clopidogrel", "dose": "75", "unit": "mg", "frequency": "daily" },
+    { "name": "atorvastatin", "dose": "80", "unit": "mg", "frequency": "qHS" },
+    { "name": "lisinopril", "dose": "10", "unit": "mg", "frequency": "daily" },
+    { "name": "aspirin", "dose": "81", "unit": "mg", "frequency": "daily" },
+    { "name": "escitalopram", "dose": "10", "unit": "mg", "frequency": "daily" }
+  ],
+  "followUps": [
+    { "provider": "neurology", "timeFrame": "2 weeks" },
+    { "provider": "physical therapy", "timeFrame": "" },
+    { "provider": "speech therapy", "timeFrame": "1 week" }
+  ],
+  "restrictions": [
+    { "category": "driving", "description": "no driving for 6 months" },
+    { "category": "activity", "description": "supervision required for mobility for 2 weeks" }
+  ]
+}

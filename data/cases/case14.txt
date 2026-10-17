@@ -1,0 +1,30 @@
+Discharge paperwork -- Anxiety/Depression, Medication Adjustment
+Synthetic Hospital System | Synthetic Patient 14
+
+Patient: Synthetic Fourteen | MRN: 100-014-001
+
+Your psychiatrist has made changes to your medications. Please read these instructions carefully.
+
+MEDICATION CHANGES:
+STOPPED: Citalopram 20mg (do NOT take this anymore)
+STARTED: Venlafaxine (Effexor XR) 37.5 mg by mouth once daily in the morning for 1 week, then increase to 75 mg daily as instructed
+CONTINUED: Alprazolam (Xanax) 0.25 mg by mouth twice daily as needed for acute anxiety -- use sparingly
+CONTINUED: Quetiapine (Seroquel) 25 mg by mouth at bedtime for sleep
+CONTINUED: Sertraline 100 mg PO once daily (your antidepressant)
+
+Wait: please note Sertraline and Venlafaxine should NOT be taken together long-term. This combination is being monitored. Follow up as scheduled.
+
+FOLLOW-UP:
+Psychiatry: 2 weeks (very important -- medication adjustment)
+Therapist / counseling: continue weekly sessions
+Primary care: 4 weeks
+
+ACTIVITY: Resume normal activity. Daily exercise recommended for mood.
+
+DIET: No special restrictions. Limit caffeine and alcohol.
+
+WOUND CARE: none.
+
+WHEN TO SEEK HELP IMMEDIATELY:
+- Thoughts of harming yourself: call 988 (Suicide and Crisis Lifeline) or go to ER
+- Seizures, severe muscle stiffness, or high fever (serotonin syndrome)

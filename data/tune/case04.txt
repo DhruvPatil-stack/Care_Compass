@@ -1,0 +1,42 @@
+DISCHARGE SUMMARY -- POST-OPERATIVE KNEE REPLACEMENT
+SYNTHETIC TEST CASE ONLY
+
+Patient information: Synthetic Patient Four | 100-004-001
+Surgeon: Synthetic Surgeon
+
+Operation: Left total knee replacement
+
+Medications
+Take all of the following exactly as prescribed:
+- OxyCODONE 5mg oral every 4-6 hours as needed for SEVERE pain (do not drive while taking)
+- Acetaminophen (Tylenol) 1000mg by mouth every 6 hours scheduled (take even if not in pain)
+- Aspirin 325mg PO TWICE DAILY for blood clot prevention for 6 weeks
+- Celecoxib 200mg PO daily for inflammation
+- Docusate (Colace) 100mg PO BID while taking oxycodone (prevents constipation)
+- Enoxaparin (Lovenox) 40mg SC once daily -- blood clot prevention injection
+
+Follow-up Appointments
+Orthopedic surgery clinic: 2 weeks post-op (call 555-0100 to confirm)
+Physical therapy: 3 times per week starting 2 days from discharge
+
+Activity
+- NO weight bearing on left leg for 48 hours, then partial weight bearing with walker
+- No driving for 6 weeks
+- No lifting greater than 10 lbs for 6 weeks
+- Use walker at all times when ambulating
+
+Diet
+Regular diet. Eat high-protein foods to help healing.
+
+Wound Care
+- Keep incision dry for 7 days
+- No showering until staples removed at follow-up
+- Change dressing daily; call if redness, warmth, or drainage increases
+
+Return Precautions
+CALL 911 or go to ER immediately if:
+- Sudden severe shortness of breath
+- Chest pain
+- Calf pain or swelling (may indicate DVT)
+- Fever over 101.5
+- Incision opens, drains pus

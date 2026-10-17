@@ -1,0 +1,15 @@
+{
+  "medications": [
+    { "name": "rivaroxaban", "dose": "15", "unit": "mg", "frequency": "BID" },
+    { "name": "ibuprofen", "dose": "400", "unit": "mg", "frequency": "TID" },
+    { "name": "omeprazole", "dose": "20", "unit": "mg", "frequency": "daily" }
+  ],
+  "followUps": [
+    { "provider": "hematology", "timeFrame": "2 weeks" },
+    { "provider": "primary care", "timeFrame": "1 week" }
+  ],
+  "restrictions": [
+    { "category": "activity", "description": "no prolonged sitting or standing" },
+    { "category": "bathing", "description": "no submersion of left leg for 2 weeks" }
+  ]
+}

@@ -1,0 +1,27 @@
+PATIENT DISCHARGE RECORD
+SYNTHETIC CASE 13 | MRN 100-013-001
+DX: CHRONIC KIDNEY DISEASE STAGE 3, ANEMIA, HTN
+
+----- START MEDICATIONS -----
+Losartan potassium 100mg -- by mouth -- once daily -- blood pressure
+Furosemide 20 mg -- oral -- every morning -- fluid removal
+Ferrous sulfate 325mg -- PO -- twice daily -- iron supplement (take between meals)
+Cyanocobalamin (Vit B12) 1000 mcg -- PO -- once daily
+Epoetin alfa (Procrit) 4000 units -- SC -- three times weekly (Mon/Wed/Fri) -- anemia injection
+Calcium carbonate 500mg -- oral -- twice daily WITH meals -- bone protection
+----- END MEDICATIONS -----
+
+NEPHROLOGY FOLLOW-UP: 2 weeks (critical for kidney function monitoring, labs)
+PRIMARY CARE: 4 weeks
+
+RENAL DIET (very important for kidneys):
+- LOW POTASSIUM: avoid bananas, oranges, potatoes, tomatoes in large amounts
+- LOW PHOSPHORUS: avoid dairy in excess, dark colas, nuts, seeds
+- LOW SODIUM: no added salt, limit processed foods
+- Limit fluid to 2 liters per day
+
+ACTIVITY: exercise 30 min/day as tolerated; avoid contact sports.
+
+WOUND: none.
+
+RETURN PRECAUTIONS: severe swelling, urination stops, confusion, shortness of breath at rest.

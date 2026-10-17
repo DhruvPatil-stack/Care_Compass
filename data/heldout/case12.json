@@ -1,0 +1,17 @@
+{
+  "medications": [
+    { "name": "cephalexin", "dose": "500", "unit": "mg", "frequency": "QID" },
+    { "name": "amlodipine", "dose": "10", "unit": "mg", "frequency": "daily" },
+    { "name": "losartan", "dose": "50", "unit": "mg", "frequency": "daily" },
+    { "name": "hydroxychloroquine", "dose": "200", "unit": "mg", "frequency": "BID" }
+  ],
+  "followUps": [
+    { "provider": "wound care", "timeFrame": "3 days" },
+    { "provider": "primary care", "timeFrame": "2 weeks" }
+  ],
+  "restrictions": [
+    { "category": "activity", "description": "limit walking for 1 week; elevate leg" },
+    { "category": "activity", "description": "no strenuous activity for 2 weeks" },
+    { "category": "diet", "description": "low sodium; stay hydrated" }
+  ]
+}

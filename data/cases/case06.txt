@@ -1,0 +1,22 @@
+DISCHARGE SUMMARY -- ABBREVIATED FORMAT WITH TYPOS
+(SYNTHETIC CASE - INTENTIONAL ERRORS FOR PARSER TESTING)
+
+Pt: Sample Six | MRN 100-006-001
+
+Dx: Urinary Tract Infection (UTI), type 2 DM
+
+Meds (take as driected):
+- Trimethoprim/Sulfamethoxazole (Bactrim DS) 1 tablet PO TWICE daily for 7 days (antibiotic for UTI)
+- Metformin 1000mg PO twice daly with meals
+- Glipizide 5 mg oral ONCE in morning
+- Vitamin D 2000 IU PO daly (bone helath)
+
+Folowup: See PCP within 1 weak. Urology referral if recurrent UTIs.
+
+Activitiy: no restricsions. exercise as tolerated.
+
+Deit: Drink at lest 8 glasses water daily. Diabetic diet: reduce sugars/carbs.
+
+Wound: no wound.
+
+Return if: burning with urination gets worse, fever, back pain, blood in urine.
